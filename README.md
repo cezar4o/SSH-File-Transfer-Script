@@ -12,8 +12,6 @@ This is a simple Bash script that allows you to upload or download files using S
 
    ```bash
    ./script.sh
-
-   Follow the prompts to input the required information.
    
 Script Details
 
